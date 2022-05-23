@@ -53,9 +53,7 @@ https://play.google.com/store/apps/details?id=com.tbradyos
 
 
 
-### Some Notes:
 
-- Due to my exams and short time, i couldn't make most of spesific diagrams (ER, Activity, Sequence..), test cases and i coded very bad on react include so much antipatterns. Sorry for that, you can pull request also!
 
 ### 🤝 Contributes&Donates
 
