@@ -8,9 +8,9 @@
 
 _Be aware of that is incomplete documentation!_
 
-![](https://img.shields.io/badge/React%20Native-white?logo=react&logoColor=blue)
-![](https://img.shields.io/badge/Firebase-yellow?logo=firebase&logoColor=white)
-![](https://img.shields.io/badge/GoogleMap-blue?logo=google&logoColor=white)
+![](https://img.shields.io/badge/React%20Native-black?logo=react&logoColor=blue)
+![](https://img.shields.io/badge/Firebase-black?logo=firebase&logoColor=yellow)
+![](https://img.shields.io/badge/Google%20Maps-blue?logo=google&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 
