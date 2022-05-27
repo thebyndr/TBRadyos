@@ -6,7 +6,6 @@
 
 
 
-_Be aware of that is incomplete documentation!_
 
 ![](https://img.shields.io/badge/React%20Native-black?logo=react&logoColor=blue)
 ![](https://img.shields.io/badge/Firebase-black?logo=firebase&logoColor=yellow)
