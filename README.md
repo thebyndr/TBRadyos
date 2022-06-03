@@ -31,7 +31,7 @@ You can listen to The Best Radios, add the radios you want and listen.
 | Directory                | Explanation                                                                                |
 | ------------------------ | ------------------------------------------------------------------------------------------ |
 | ➥ ~../src           | All pages                         |
-| ➥ ~./Auth              |Register and Login        |
+| ➥ ~./Auth               |Register and Login        |
 | ➥ ~./Home              |Home Screen                                                                      |
 | ➥ ~./Profile            | Your Profile                                                                                       |
 | ➥ ~./My            | Your Radios                                                                                       |
